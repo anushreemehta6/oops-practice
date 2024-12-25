@@ -32,4 +32,6 @@ int main(){
     Employee e("sakhi",12,20000);
     e.displaySalary();
     e.displaySalary("monthly");
+
+
 }
